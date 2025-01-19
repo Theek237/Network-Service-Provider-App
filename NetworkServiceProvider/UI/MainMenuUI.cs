@@ -10,19 +10,22 @@ namespace NetworkServiceProvider.UI
         private readonly NetworkDeviceUI networkDeviceUI;
         private readonly BillingUI billingUI;
         private readonly SupportTicketUI supportTicketUI;
+        private readonly PerformanceAnalysisUI performanceAnalysisUI;
 
         public MainMenuUI(
-        CustomerUI customerUI,
-        ServicePlanUI servicePlanUI,
+            CustomerUI customerUI,
+            ServicePlanUI servicePlanUI,
             NetworkDeviceUI networkDeviceUI,
-        BillingUI billingUI,
-            SupportTicketUI supportTicketUI)
+            BillingUI billingUI,
+            SupportTicketUI supportTicketUI,
+            PerformanceAnalysisUI performanceAnalysisUI)
         {
             this.customerUI = customerUI;
             this.servicePlanUI = servicePlanUI;
             this.networkDeviceUI = networkDeviceUI;
             this.billingUI = billingUI;
             this.supportTicketUI = supportTicketUI;
+            this.performanceAnalysisUI = performanceAnalysisUI;
         }
 
         public void ShowMainMenu()
@@ -59,7 +62,7 @@ namespace NetworkServiceProvider.UI
                         supportTicketUI.Show();
                         break;
                     case "6":
-                        ShowPerformanceAnalysis();
+                        performanceAnalysisUI.ShowPerformanceAnalysis();
                         break;
                     case "0":
                         Console.WriteLine("Thank you for using Network Service Provider. Goodbye!");
@@ -69,12 +72,6 @@ namespace NetworkServiceProvider.UI
                         break;
                 }
             }
-        }
-
-        private void ShowPerformanceAnalysis()
-        {
-            DisplayHeader("Performance Analysis");
-            
         }
     }
 }

@@ -41,6 +41,8 @@ namespace NetworkServiceProvider
             services.AddSingleton<NetworkDeviceService>();
             services.AddSingleton<BillingService>();
             services.AddSingleton<SupportTicketService>();
+            services.AddTransient<PerformanceAnalysisUI>();
+
 
             // Register UI Components
             services.AddSingleton<CustomerUI>();
