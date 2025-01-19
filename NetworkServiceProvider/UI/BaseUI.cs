@@ -7,9 +7,7 @@ namespace NetworkServiceProvider.UI
         protected static void DisplayHeader(string title)
         {
             Console.Clear();
-            Console.WriteLine($"=== {title} ===");
-            Console.WriteLine($"Current Time (UTC): 2025-01-19 15:09:42");
-            Console.WriteLine($"User: Theek237");
+            Console.WriteLine($"=== {title} ===");  
             Console.WriteLine(new string('=', title.Length + 8));
             Console.WriteLine();
         }

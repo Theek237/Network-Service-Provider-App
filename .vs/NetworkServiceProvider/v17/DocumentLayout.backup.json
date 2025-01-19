@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|c:\\users\\asus\\desktop\\network service provider\\network-service-provider-app\\networkserviceprovider\\ui\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|solutionrelative:networkserviceprovider\\ui\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|c:\\users\\asus\\desktop\\network service provider\\network-service-provider-app\\networkserviceprovider\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|solutionrelative:networkserviceprovider\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|c:\\users\\asus\\desktop\\network service provider\\network-service-provider-app\\networkserviceprovider\\ui\\billingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|solutionrelative:networkserviceprovider\\ui\\billingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|c:\\users\\asus\\desktop\\network service provider\\network-service-provider-app\\networkserviceprovider\\ui\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|solutionrelative:networkserviceprovider\\ui\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5839148E-66B2-4BEA-B20C-4146BDA09CE8}|NetworkServiceProvider\\NetworkServiceProvider.csproj|c:\\users\\asus\\desktop\\network service provider\\network-service-provider-app\\networkserviceprovider\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,37 +122,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\README.md",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\README.md",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\README.md",
               "RelativeToolTip": "NetworkServiceProvider\\README.md",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-01-19T15:59:42.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\Program.cs",
-              "RelativeDocumentMoniker": "NetworkServiceProvider\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\Program.cs",
-              "RelativeToolTip": "NetworkServiceProvider\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:59:29.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PerformanceAnalyzer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\Utils\\PerformanceAnalyzer.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\Utils\\PerformanceAnalyzer.cs",
@@ -160,12 +147,11 @@
               "RelativeToolTip": "NetworkServiceProvider\\Utils\\PerformanceAnalyzer.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:59:18.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:59:18.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SupportTicketUI.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\SupportTicketUI.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\SupportTicketUI.cs",
@@ -173,12 +159,11 @@
               "RelativeToolTip": "NetworkServiceProvider\\UI\\SupportTicketUI.cs",
               "ViewState": "AgIAAAoBAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:59:01.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:59:01.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ServicePlanUI.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\ServicePlanUI.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\ServicePlanUI.cs",
@@ -186,12 +171,11 @@
               "RelativeToolTip": "NetworkServiceProvider\\UI\\ServicePlanUI.cs",
               "ViewState": "AgIAANsAAAAAAAAAAAAAAKQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:58:43.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:58:43.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NetworkDeviceUI.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\NetworkDeviceUI.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\NetworkDeviceUI.cs",
@@ -199,12 +183,36 @@
               "RelativeToolTip": "NetworkServiceProvider\\UI\\NetworkDeviceUI.cs",
               "ViewState": "AgIAAAABAAAAAAAAAADwv1gAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:58:24.363Z",
+              "WhenOpened": "2025-01-19T15:58:24.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseUI.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\BaseUI.cs",
+              "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\BaseUI.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\BaseUI.cs",
+              "RelativeToolTip": "NetworkServiceProvider\\UI\\BaseUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:57:31.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\Program.cs",
+              "RelativeDocumentMoniker": "NetworkServiceProvider\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\Program.cs",
+              "RelativeToolTip": "NetworkServiceProvider\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:59:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainMenuUI.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\MainMenuUI.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\MainMenuUI.cs",
@@ -212,12 +220,11 @@
               "RelativeToolTip": "NetworkServiceProvider\\UI\\MainMenuUI.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAYwEwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:58:08.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:58:08.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CustomerUI.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\CustomerUI.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\CustomerUI.cs",
@@ -225,12 +232,11 @@
               "RelativeToolTip": "NetworkServiceProvider\\UI\\CustomerUI.cs",
               "ViewState": "AgIAAMcAAAAAAAAAAAAwwMgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:57:51.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:57:51.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BillingUI.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\BillingUI.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\BillingUI.cs",
@@ -238,21 +244,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\UI\\BillingUI.cs",
               "ViewState": "AgIAALIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:57:39.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseUI.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\BaseUI.cs",
-              "RelativeDocumentMoniker": "NetworkServiceProvider\\UI\\BaseUI.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\UI\\BaseUI.cs",
-              "RelativeToolTip": "NetworkServiceProvider\\UI\\BaseUI.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:57:31.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:57:39.481Z"
             },
             {
               "$type": "Document",
@@ -264,8 +256,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Services\\SupportTicketService.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:57:14.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:57:14.494Z"
             },
             {
               "$type": "Document",
@@ -277,8 +268,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Services\\ServicePlanService.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:57:06.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:57:06.678Z"
             },
             {
               "$type": "Document",
@@ -290,8 +280,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Services\\NetworkDeviceService.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:56:59.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:56:59.693Z"
             },
             {
               "$type": "Document",
@@ -303,8 +292,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Services\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:56:52.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:56:52.521Z"
             },
             {
               "$type": "Document",
@@ -316,8 +304,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Services\\CustomerService.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:56:38.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:56:38.336Z"
             },
             {
               "$type": "Document",
@@ -329,8 +316,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Services\\BillingService.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:56:27.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:56:27.379Z"
             },
             {
               "$type": "Document",
@@ -342,8 +328,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Entities\\SupportTicket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:56:19.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:56:19.686Z"
             },
             {
               "$type": "Document",
@@ -355,8 +340,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Entities\\ServicePlan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:56:12.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:56:12.174Z"
             },
             {
               "$type": "Document",
@@ -368,8 +352,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Entities\\NetworkDevice.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:56:03.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:56:03.82Z"
             },
             {
               "$type": "Document",
@@ -381,8 +364,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Entities\\IEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:55:55.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:55:55.929Z"
             },
             {
               "$type": "Document",
@@ -394,8 +376,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Entities\\Customer.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:55:46.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:55:46.545Z"
             },
             {
               "$type": "Document",
@@ -407,8 +388,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Entities\\Bill.cs",
               "ViewState": "AgIAABkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:55:38.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:55:38.312Z"
             },
             {
               "$type": "Document",
@@ -420,8 +400,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\DataStructures\\Tree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:55:28.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:55:28.382Z"
             },
             {
               "$type": "Document",
@@ -433,8 +412,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\DataStructures\\PriorityQueue.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:55:19.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:55:19.263Z"
             },
             {
               "$type": "Document",
@@ -446,8 +424,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\DataStructures\\Graph.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:55:12.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:55:12.83Z"
             },
             {
               "$type": "Document",
@@ -455,12 +432,11 @@
               "Title": "CustomLinkedList.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\DataStructures\\CustomLinkedList.cs",
               "RelativeDocumentMoniker": "NetworkServiceProvider\\DataStructures\\CustomLinkedList.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\DataStructures\\CustomLinkedList.cs*",
-              "RelativeToolTip": "NetworkServiceProvider\\DataStructures\\CustomLinkedList.cs*",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Network Service Provider\\Network-Service-Provider-App\\NetworkServiceProvider\\DataStructures\\CustomLinkedList.cs",
+              "RelativeToolTip": "NetworkServiceProvider\\DataStructures\\CustomLinkedList.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:55:05.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:55:05.648Z"
             },
             {
               "$type": "Document",
@@ -472,8 +448,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Algorithms\\SortingAlgorithms.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:54:55.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:54:55.173Z"
             },
             {
               "$type": "Document",
@@ -485,8 +460,7 @@
               "RelativeToolTip": "NetworkServiceProvider\\Tests\\ServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T15:54:43.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T15:54:43.763Z"
             }
           ]
         }
